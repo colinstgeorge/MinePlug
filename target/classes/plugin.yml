@@ -1,0 +1,9 @@
+name: HWCDIminePlug
+main: com.hwcdi.MinePlug
+version: 0.1
+description: HWCDI Minecraft plugin
+
+commands:
+   ignite:
+      description: Ignite User
+      usage: /<command> 
