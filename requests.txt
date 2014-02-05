@@ -1,0 +1,3 @@
+set / goto waypoint 1 (warp)
+even just /warphome
+/spawn entity ID
